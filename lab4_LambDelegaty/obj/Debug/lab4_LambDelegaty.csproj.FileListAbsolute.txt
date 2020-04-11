@@ -1,0 +1,10 @@
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\bin\Debug\lab4_LambDelegaty.exe.config
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\bin\Debug\lab4_LambDelegaty.exe
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\bin\Debug\lab4_LambDelegaty.pdb
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.csprojAssemblyReference.cache
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.Form1.resources
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.Properties.Resources.resources
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.csproj.GenerateResource.cache
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.exe
+C:\Users\Home-PC\Desktop\INFORMATYKA\ROK III\Semestr 6\Hawryluk_Warunek_JP2\lab4_LambDelegaty\lab4_LambDelegaty\obj\Debug\lab4_LambDelegaty.pdb
